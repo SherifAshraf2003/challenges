@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { Avatar, AvatarFallback, AvatarImage } from "../components/ui/avatar";
 import { User, X, Mic, Smile, Camera, Images } from "lucide-react";
 
 export default function Home() {
